@@ -1,1 +1,2 @@
-# class24-project
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
